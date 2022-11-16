@@ -15,10 +15,13 @@
   
   
 # プレイ動画
+- Youtube上に限定公開した約8分間の動画です。  
+- 遊び方の説明と、Stage01～03のプレイ動画の四部構成で、概要欄にタイムスタンプがあります。  
 [『Rear』プレイ動画](https://youtu.be/mYLQkXrPDaM)  
   
   
   
 # プロジェクトファイルの公開
+- GitHubに公開している『Rear』のプロジェクトファイルです。  
 - 担当箇所やソースコード等、詳細な内容はこちらから参照して下さい。  
 [『Rear』プロジェクトファイル](https://github.com/shuhei-M/Rear_ProjectFile_2021)  
